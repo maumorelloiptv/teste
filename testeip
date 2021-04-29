@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="tv aberta" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbtrj.png",sbt rj
+https://cdn.esporteone.com/SBTSD/video.m3u8?md5=1YBpbgHR4NoSmpjlHrQDHg&expires=1619733261
+#EXTINF:-1 group-title="tv aberta" tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg",record
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="tv aberta" tvg-logo="https://images.daznservices.com/di/library/GOAL/50/9c/band-logo_447i5spdwg3w1cee26gjk6k7a.jpg?t=-1877443818&quality=100",band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+#EXTINF:-1 group-title="tv variedades" tvg-logo="https://pbs.twimg.com/profile_images/967989989584678914/RHSny5J-_400x400.jpg",kisstv
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1816645649_b300000.m3u8?publisher=83
+#EXTINF:-1 group-title="tv serie" tvg-logo="https://i.pinimg.com/474x/54/8a/30/548a30ffa72341c9ad325a3e0887a81a.jpg",Fox premiun
+https://content-asae1-up-2.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1619724078&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=add8c2080112e8ff1e9d260bdae09418ae6d4f3f6f8856d4fd23d411e931f208&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=96bacf19fb706505e67180bf25eef8d167122cea6a3b14e4518e6c284e8de510&pbs=4fffcce6a8394701a24bf78f8a80dc37
+#EXTINF:-1 group-title="esporte" tvg-logo="https://i.pinimg.com/originals/a9/f8/79/a9f8791a6c4108b6907e03a1711e12d4.png",Fox sport 2
+https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1619725394&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=add8c2080112e8ff1e9d260bdae09418ae6d4f3f6f8856d4fd23d411e931f208&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=d2ae0a3f0b8d819fe86bf550b49b7903389bb1630ecd2d0da9f01528cbf59d93&pbs=068e71983e4d4d258adbf3fea5e0a713
+#EXTINF:-1 group-title="tv serie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Fox_Channel_logo.svg",Fox channel
+https://content-asae1-up-2.uplynk.com/channel/33ca31585a694bcba633e1316070d9c0/e.m3u8?exp=1619725475&ct=c&cid=33ca31585a694bcba633e1316070d9c0&expand=drmOff&iph=add8c2080112e8ff1e9d260bdae09418ae6d4f3f6f8856d4fd23d411e931f208&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=ab063b9ffd3b746bf62776e21a08363087fdb3791bac45d277f216a496e39a6c&pbs=8293fe70a61b4da6992851e65a6585a6
+#EXTINF:-1 group-title="tv esporte" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/08/Fox-Sports.gif",Fox premiun
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1619725612&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=add8c2080112e8ff1e9d260bdae09418ae6d4f3f6f8856d4fd23d411e931f208&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=bffc9ebc89074f4c8577b16c6797a5eaed9d9afb9fde6eba2cbe84d246d39d40&pbs=abd5571cc14447e0920aa5cfb354e0d6
+#EXTINF:-1 group-title="tv serie" tvg-logo="https://i.pinimg.com/474x/54/8a/30/548a30ffa72341c9ad325a3e0887a81a.jpg",Fox premiun
+https://cdn.esporteone.com/VIVASD/video.m3u8?md5=vCZIiTQiZyuhnCL_5bYS9g&expires=1619735470
